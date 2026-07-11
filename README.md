@@ -181,13 +181,13 @@ Abrir el archivo **Executive_Sales_Dashboard.pbix** con Power BI Desktop
 
 Las posibles mejoras para futuras versiones del proyecto incluyen:
 
-Implementar un modelo dimensional en estrella (Star Schema).
-Incorporar una tabla de calendario para análisis temporal avanzado (Time Intelligence).
-Desarrollar cálculos avanzados con DAX (YTD, MTD y YOY).
-Añadir páginas de detalle mediante la funcionalidad Drill-through.
-Publicar el dashboard en Power BI Service.
-Desarrollar una versión del dashboard en Tableau.
-Automatizar el proceso ETL para la actualización de los datos.
+- Implementar un modelo dimensional en estrella (Star Schema).
+- Incorporar una tabla de calendario para análisis temporal avanzado (Time Intelligence).
+- Desarrollar cálculos avanzados con DAX (YTD, MTD y YOY).
+- Añadir páginas de detalle mediante la funcionalidad Drill-through.
+- Publicar el dashboard en Power BI Service.
+- Desarrollar una versión del dashboard en Tableau.
+- Automatizar el proceso ETL para la actualización de los datos.
 
 ---
 
