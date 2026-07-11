@@ -9,13 +9,13 @@ The project demonstrates a complete analytics workflow, from data preparation an
 
 ---
 
-# 📌 Project Overview
+# 📌 Descripción general del proyecto
 
-This project is based on the popular **Sample Superstore** dataset and aims to analyze sales performance across different dimensions such as products, customers, regions, and time.
+Este proyecto está basado en el conocido conjunto de datos Sample Superstore y tiene como objetivo analizar el rendimiento de las ventas desde diferentes perspectivas, como productos, clientes, regiones y periodos de tiempo.
 
-The objective is to build a complete Business Intelligence solution capable of answering key business questions through an interactive Power BI dashboard.
+El objetivo es desarrollar una solución completa de Business Intelligence, capaz de responder a preguntas clave del negocio mediante un dashboard interactivo en Power BI.
 
-The project follows a complete ETL and Business Intelligence workflow:
+El proyecto sigue un flujo completo de trabajo de ETL y Business Intelligence:
 
 - Extract data from the Sample Superstore Excel file
 - Transform and clean the data using Python (Pandas)
@@ -105,9 +105,9 @@ The project follows a complete ETL and Business Intelligence workflow:
 
 ---
 
-# 📈 Key Performance Indicators
+# 📈 Indicadores clave de rendimiento
 
-The dashboard includes the following KPIs:
+El panel de control incluye los siguientes KPIs:
 
 - Total Sales
 - Total Profit
@@ -118,9 +118,9 @@ The dashboard includes the following KPIs:
 
 ---
 
-# 💡 Business Questions Answered
+# 💡 Preguntas de negocio que responde el dashboard
 
-The dashboard helps answer important business questions such as:
+El dashboard permite responder a importantes preguntas de negocio, como:
 
 - Which product categories generate the highest sales?
 - Which regions are the most profitable?
@@ -131,9 +131,9 @@ The dashboard helps answer important business questions such as:
 
 ---
 
-# 🎯 Skills Demonstrated
+# 🎯 Habilidades demostradas
 
-Throughout this project, the following skills were applied:
+Durante el desarrollo de este proyecto se pusieron en práctica las siguientes competencias:
 
 - Data Cleaning with Pandas
 - Data Transformation
@@ -148,38 +148,38 @@ Throughout this project, the following skills were applied:
 
 ---
 
-# 🚀 How to Run the Project
+# 🚀 ¿Cómo ejecutar el proyecto?
 
-### 1. Clone the repository
+### 1. Clonar el repositorio
 
 git clone https://github.com/javiercobosanchez/sales-analytics-dashboard.git
 
 
-### 2. Install the required dependencies
+### 2. Instalar las dependencias necesarias
 
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Execute the data preparation script
+### 3. Ejecutar el script de preparación de datos
 
 ```bash
 python scripts/prepare_data.py
 ```
-### 4. Create the PostgreSQL database
+### 4. Crear la base de datos en PostgreSQL
 
-Execute the SQL scripts located in the **sql/** folder.
+Ejecutar los scripts SQL ubicados en la carpeta **sql/**
 
-### 5. Open the dashboard
+### 5. Abrir el dashboard
 
-Open **Executive_Sales_Dashboard.pbix** using Power BI Desktop.
+Abrir el archivo **Executive_Sales_Dashboard.pbix** con Power BI Desktop
 
 ---
 
-# 📌 Future Improvements
+# 📌 Mejoras futuras
 
-Potential improvements for future versions include:
+Las posibles mejoras para futuras versiones del proyecto incluyen:
 
 - Star Schema implementation
 - Calendar table for advanced time intelligence
@@ -194,8 +194,6 @@ Potential improvements for future versions include:
 ## 👨‍💻 Author
 
 **Javier Cobo**
-
-Aspiring Data Analyst
 
 - GitHub: https://github.com/javiercobosanchez
 - LinkedIn: https://www.linkedin.com/in/javiercobosanchez/
