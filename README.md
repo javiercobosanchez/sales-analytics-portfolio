@@ -1,9 +1,9 @@
 
 # 📊 Executive Sales Dashboard
 
-An end-to-end Data Analytics project that transforms raw sales data into actionable business insights using Python, PostgreSQL, SQL, and Power BI.
+Proyecto completo de Data Analytics que transforma datos de ventas en bruto en información útil para la toma de decisiones mediante el uso de Python, PostgreSQL, SQL y Power BI.
 
-The project demonstrates a complete analytics workflow, from data preparation and database management to interactive dashboard development and KPI reporting.
+El proyecto demuestra un flujo de trabajo completo de análisis de datos, desde la preparación y gestión de la información hasta el desarrollo de un dashboard interactivo y la creación de indicadores clave de rendimiento (KPIs).
 
 ![Executive Sales Dashboard](images/dashboard.png)
 
@@ -17,13 +17,13 @@ El objetivo es desarrollar una solución completa de Business Intelligence, capa
 
 El proyecto sigue un flujo completo de trabajo de ETL y Business Intelligence:
 
-- Extract data from the Sample Superstore Excel file
-- Transform and clean the data using Python (Pandas)
-- Export the cleaned dataset as a CSV file
-- Load the processed data into PostgreSQL
-- Perform business analysis using SQL
-- Build an interactive dashboard in Power BI
-- Create business KPIs using DAX
+- Extraer los datos del archivo Excel Sample Superstore.
+- Transformar y limpiar los datos utilizando Python (Pandas).
+- Exportar el conjunto de datos limpio en formato CSV.
+- Cargar los datos procesados en una base de datos PostgreSQL.
+- Realizar análisis de negocio mediante consultas SQL.
+- Desarrollar un dashboard interactivo en Power BI.
+- Crear indicadores clave de negocio (KPIs) utilizando DAX.
 
 ---
 
@@ -122,12 +122,12 @@ El panel de control incluye los siguientes KPIs:
 
 El dashboard permite responder a importantes preguntas de negocio, como:
 
-- Which product categories generate the highest sales?
-- Which regions are the most profitable?
-- How have sales evolved over time?
-- Which products generate the highest revenue?
-- What is the overall profit margin?
-- How do customer purchasing patterns vary across segments?
+- ¿Qué categorías de productos generan el mayor volumen de ventas?
+- ¿Qué regiones son las más rentables?
+- ¿Cómo han evolucionado las ventas a lo largo del tiempo?
+- ¿Qué productos generan los mayores ingresos?
+- ¿Cuál es el margen de beneficio global?
+- ¿Cómo varían los patrones de compra de los clientes entre los distintos segmentos?
 
 ---
 
@@ -135,16 +135,16 @@ El dashboard permite responder a importantes preguntas de negocio, como:
 
 Durante el desarrollo de este proyecto se pusieron en práctica las siguientes competencias:
 
-- Data Cleaning with Pandas
-- Data Transformation
-- PostgreSQL Database Management
-- SQL Query Development
-- KPI Design
-- DAX Measures
-- Interactive Dashboard Development
-- Business Intelligence Reporting
-- Data Visualization
-- End-to-End Analytics Workflow
+- Limpieza de datos con Pandas.
+- Transformación de datos.
+- Gestión de bases de datos con PostgreSQL.
+- Desarrollo de consultas SQL.
+- Diseño de indicadores clave de negocio (KPIs).
+- Creación de medidas con DAX.
+- Desarrollo de dashboards interactivos.
+- Elaboración de informes de Business Intelligence.
+- Visualización de datos.
+- Desarrollo de un flujo completo de análisis de datos (End-to-End Analytics Workflow).
 
 ---
 
@@ -181,13 +181,13 @@ Abrir el archivo **Executive_Sales_Dashboard.pbix** con Power BI Desktop
 
 Las posibles mejoras para futuras versiones del proyecto incluyen:
 
-- Star Schema implementation
-- Calendar table for advanced time intelligence
-- Advanced DAX calculations (YTD, MTD, YOY)
-- Drill-through report pages
-- Power BI Service deployment
-- Tableau implementation
-- Automated ETL pipeline
+Implementar un modelo dimensional en estrella (Star Schema).
+Incorporar una tabla de calendario para análisis temporal avanzado (Time Intelligence).
+Desarrollar cálculos avanzados con DAX (YTD, MTD y YOY).
+Añadir páginas de detalle mediante la funcionalidad Drill-through.
+Publicar el dashboard en Power BI Service.
+Desarrollar una versión del dashboard en Tableau.
+Automatizar el proceso ETL para la actualización de los datos.
 
 ---
 
