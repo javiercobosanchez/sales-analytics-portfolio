@@ -152,7 +152,7 @@ Throughout this project, the following skills were applied:
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/sales-analytics-dashboard.git
+git clone https://github.com/javiercobosanchez/sales-analytics-dashboard.git
 
 
 ### 2. Install the required dependencies
@@ -197,7 +197,7 @@ Potential improvements for future versions include:
 
 Aspiring Data Analyst
 
-- GitHub: https://github.com/JavisinWayne
+- GitHub: https://github.com/javiercobosanchez
 - LinkedIn: https://www.linkedin.com/in/javiercobosanchez/
 
 2026
