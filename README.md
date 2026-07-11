@@ -44,6 +44,7 @@ The project follows a complete ETL and Business Intelligence workflow:
 
 # 📂 Project Structure
 
+```text
 01-sales-analytics/
 │
 ├── data/
@@ -54,7 +55,7 @@ The project follows a complete ETL and Business Intelligence workflow:
 │       └── superstore.csv
 │
 ├── images/
-│   └── dashboard.png
+│   │   └── dashboard.png
 │
 ├── notebooks/
 │
@@ -75,13 +76,12 @@ The project follows a complete ETL and Business Intelligence workflow:
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
----
+```
 
 
 # 🔄 Data Pipeline
 
-
+```text
         Sample-Superstore.xlsx
                   │
                   ▼
@@ -101,14 +101,7 @@ The project follows a complete ETL and Business Intelligence workflow:
                   │
                   ▼
        Business Insights
-
----
-
-# 📊 Dashboard Preview
-
-The dashboard provides an executive overview of the company's sales performance through interactive visualizations and KPIs.
-
-![Executive Sales Dashboard](images/dashboard.png)
+```
 
 ---
 
@@ -165,13 +158,15 @@ git clone https://github.com/yourusername/sales-analytics-dashboard.git
 ### 2. Install the required dependencies
 
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Execute the data preparation script
 
-
+```bash
 python scripts/prepare_data.py
-
+```
 ### 4. Create the PostgreSQL database
 
 Execute the SQL scripts located in the **sql/** folder.
@@ -203,5 +198,6 @@ Potential improvements for future versions include:
 Aspiring Data Analyst
 
 - GitHub: https://github.com/JavisinWayne
+- LinkedIn: https://www.linkedin.com/in/javiercobosanchez/
 
 2026
