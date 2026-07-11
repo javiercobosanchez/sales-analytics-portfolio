@@ -27,7 +27,7 @@ El proyecto sigue un flujo completo de trabajo de ETL y Business Intelligence:
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tecnologías utilizadas
 
 | Technology | Purpose |
 |------------|---------|
@@ -42,7 +42,7 @@ El proyecto sigue un flujo completo de trabajo de ETL y Business Intelligence:
 
 ---
 
-# 📂 Project Structure
+# 📂 Estructura del proyecto
 
 ```text
 01-sales-analytics/
@@ -79,7 +79,7 @@ El proyecto sigue un flujo completo de trabajo de ETL y Business Intelligence:
 ```
 
 
-# 🔄 Data Pipeline
+# 🔄 Flujo de procesamiento de datos
 
 ```text
         Sample-Superstore.xlsx
@@ -191,7 +191,7 @@ Automatizar el proceso ETL para la actualización de los datos.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Autor
 
 **Javier Cobo**
 
